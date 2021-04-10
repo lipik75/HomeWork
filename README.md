@@ -3,8 +3,8 @@ JAVA FUNDAMENTALS
 
 CORSE PROGRAMM:
 
-> Operators & control statements;
-> Arrays & String Methods;
+> [Operators & control statements];
+> [Arrays & String Methods];
 > Object-oriented programming;
 > Inheritance and polymorphism;
 > Generics, collections, exceptions;
