@@ -1,5 +1,5 @@
 # IT-Academy_HomeWork
-                     JAVA FUNDAMENTALS Coerse
+JAVA FUNDAMENTALS Coerse
 
 CORSE PROGRAMM:
 
